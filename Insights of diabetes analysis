@@ -1,0 +1,30 @@
+Diabetes:
+
+Diabetes is a chronic disease that occurs either when the pancreas does not
+produce enough insulin or when the body cannot effectively use the insulin
+it produces.
+
+
+Insights from dataset:
+
+Being overweight or obese and being over the age of 30 are risk factors for developing diabetes. Maintaining a healthy weight and getting regular checkups from your doctor will help reduce your risk of developing
+diabetes.
+
+If BMI is less than 18.5, it falls within the underweight range.
+If BMI is less than 18.5 to <25, it falls within the healthy weight range.
+If BMI is less than 25.0 to <30, it falls within the overweight weight range.
+If BMI is less than 30.0 or higher, it falls within the healthy weight range.
+
+The number of times a woman gets pregnant also plays a role in the likelihood of getting diabetes, so it is necessary to measure blood sugar levels regularly as the number of pregnancies increases.
+
+Diabetes pedigree function (DPF) calculates diabetes likelihood depending on the subject's age and his/her diabetic family history, and the more it increases, the more likely it is to develop diabetes.
+
+There is a strong relationship between glucose levels and diabetes. A glucose level below 140 is considered normal, but if it is above this level, the person is considered to have impaired glucose tolerance. Glucose is
+an important risk factor for developing diabetes. The main reasons for the highest glucose :
+
+1- Stress and anxiety.
+2- eating too many sugary foods and drinks .
+3- certain medications such as steroids, diuretics, and some antipsychotic medications.
+
+Increased skin thickness is a common symptom of insulin resistance . When there is too much insulin in the body, it can cause the body to store excess glucose as fat. This fat can then build up in the skin, making it
+thicker.
