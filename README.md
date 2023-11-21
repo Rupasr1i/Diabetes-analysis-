@@ -45,4 +45,4 @@ If you have any questions or require more details about the project, please don'
 
 
 
-[POWERBI DASHBOARD LINK] (https://rb.gy/5cayu)
+[POWERBI DASHBOARD LINK] (https://app.powerbi.com/links/BdWCYVuDSn?ctid=209a70f5-a678-4831-9798-ea1ea04aa9b8&pbi_source=linkShare)
